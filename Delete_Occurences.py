@@ -1,3 +1,4 @@
+
 def remove_list(lst, item):
     res=[i for i in lst if i!=item]
     return res
